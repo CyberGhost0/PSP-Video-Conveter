@@ -1,5 +1,5 @@
 # PSP-Video-Conveter
-# A small simple script to convert videos files to be played on PSP 1000 series
+# A small simple shell script to convert videos files to be played on PSP 1000 series
 #!/bin/bash
 # PSP video converter - Preserve original quality, same or smaller size
 
